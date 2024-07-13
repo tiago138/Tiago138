@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiago138
+- 👋 Hi, I’m @tiago138
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project
